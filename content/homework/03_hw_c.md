@@ -1,5 +1,5 @@
 ---
-title: Homework 2
+title: Third hw
 due_date: 2022-10-01
 ---
 
