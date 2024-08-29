@@ -3,7 +3,7 @@ layout: layouts/base.njk
 eleventyExcludeFromCollections: true
 ---
 # Classroom and Lab Rules
-- Please read the student handbook and the school policies: Go to [the school website](https://www.stuy.edu/). Under the menu "Students", click on "Schools Policies and Forms" to find relevant information. I have also provided this information in class, so if you do not comply with one of the rules, you cannot use the excuse you did not know it.
+- Please read the student handbook and the school policies: Go to [the school website](https://stuy.enschool.org/). Under the menu "Students", click on "Schools Policies and Forms" to find relevant information. I have also provided this information in class, so if you do not comply with one of the rules, you cannot use the excuse you did not know it.
 
 - You have signed the Academic Integrity Policy. It is essential to state that you can help your classmates by explaining what they need help understanding, but not by giving them your work, not even letting them see it. Your work is your work. Giving your work to your classmates is not going to help them. They will not learn anything from copying your work. Learning comes from thinking. Copying does not provide any value. I encourage you to help each other because learning from a classmate is a good experience, and helping a classmate is also valuable. When a classmate is struggling, please explain the concepts and, little by little, give them hints that will promote problem-solving.
 
