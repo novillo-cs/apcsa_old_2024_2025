@@ -33,7 +33,7 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Build 11ty site
-        run: npx @11ty/eleventy --pathprefix=apcsa_test
+        run: npx @11ty/eleventy --pathprefix=apcsa
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
