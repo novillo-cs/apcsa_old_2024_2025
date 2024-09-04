@@ -13,7 +13,9 @@ eleventyExcludeFromCollections: true
 
 - Students must be on time for class. Please improve your routine if you are often late, especially for the first period. You may wake up 10 minutes earlier or more to take the train/bus, which will help you to be on time for school. If you are late, you will disrupt the class and miss important parts of the lessons, which could affect your learning and your classwork grade.
 
-- Students must pay attention when the teacher gives a lesson. Please do not use the computers during a lesson unless the teacher asks you to do it. Please do not work on assignments for other subjects during my class. Avoid distractions (cell phones). Students who do not comply with this rule will lose classwork points.
+- Students must pay attention when the teacher gives a lesson. Please do not use the computers during a lesson unless the teacher asks you to do it. Please do not work on assignments for other subjects during my class. Avoid distractions. Students who do not comply with this rule will lose classwork points.
+
+- Cell phones, earphones, and ear pods are not allowed during class time. These devices must be kept in your backpack. If you are caught using any of these devices, I will collect them and return them at the end of class. If this behavior is repeated, further consequences will be applied.
 
 - Bathroom: Please do your best to use the bathroom between periods. Students cannot go to the bathroom during an exam or quiz.
 
@@ -27,23 +29,19 @@ eleventyExcludeFromCollections: true
 # Grading
 | Criteria                   | Weight |
 | -------------------------- | ------ |
-| Formative Assessments      | 70%    |
-| Homework & Preparation     | 15%    |
-| Class Participation & Work | 15%    |
+| Summative Assessments      | 70%    |
+| Classwork and Homework     | 30%    |
 
-**Formative Assessments:**
+**Summative Assessments:**
 - Exams/Quizzes.
 - Labs.
 
 **Homework & Preparation:**
-- Homework will be posted on our class website.
-- Homework should be completed individually unless the teacher specifies that group work is allowed.
-- I will check homework randomly and choose students to demo their homework in front of the class.
-
-**Class Participation & Work:**
-- I will evaluate your participation and engagement in class.
 - Classwork (individual, group).
 - Attendance and punctuality.
+- Homework will be posted on our class website.
+- Homework should be completed individually unless the teacher specifies that group work is allowed.
+- I will check homework randomly by checking your work on your GitHub repositories or choosing students to demo their homework in front of the class.
 
 # Contact Info
 
