@@ -8,6 +8,9 @@ This term we will be using Piazza for class discussion. The system is highly cat
 
 Find our class signup link [here](https://piazza.com/stuyvesant_high_school/fall2023/mks21x)
 
+# Google Classroom
+It will be used for exit tickets only. All other assignments will be submitted on GitHub.
+
 # Git
 It is an open-source version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers collaboratively developing source code during software development.
 
