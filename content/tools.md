@@ -8,6 +8,8 @@ This term we will be using Piazza for class discussion. The system is highly cat
 
 Find our class signup link [here](https://piazza.com/stuyvesant_high_school/fall2023/mks21x)
 
+Piazza access code provided in class. If you missed it, ask the teacher.
+
 # Google Classroom
 It will be used for exit tickets only. All other assignments will be submitted on GitHub.
 
