@@ -9,6 +9,8 @@ eleventyExcludeFromCollections: true
 - You have signed the Academic Integrity Policy. It is essential to state that you can help your classmates by explaining what they need help understanding, but not by giving them your work, not even letting them see it. Your work is your work. Giving your work to your classmates is not going to help them. They will not learn anything from copying your work. Learning comes from thinking. Copying does not provide any value. I encourage you to help each other because learning from a classmate is a good experience, and helping a classmate is also valuable. When a classmate is struggling, please explain the concepts and, little by little, give them hints that will promote problem-solving.
 
 - Students must respect the teacher and classmates at all times.
+  
+- Students must speak respectfully and avoid using inappropriate, offensive, or hurtful language. This ensures a positive, inclusive, and safe learning environment for everyone.
 
 - Labs: No food or drinks are allowed in the labs. Labs should be kept clean.
 
@@ -44,7 +46,7 @@ eleventyExcludeFromCollections: true
 - Attendance and punctuality.
 - Homework will be posted on our class website.
 - Homework should be completed individually unless the teacher specifies that group work is allowed.
-- I will randomly check homework by looking at your work on your GitHub repositories or choosing students to demo their homework in front of the class.
+- The teacher will randomly check homework by looking at students' work on GitHub repositories or choosing students to demo their homework in front of the class.
 - The history of Git commits will be used to assess and grade classwork and homework. To ensure fair and accurate grading, please adhere to the following guidelines:
   - Commit Regularly: Make consistent commits that reflect meaningful progress.
   - Descriptive Commit Messages: Use clear and descriptive commit messages to explain the changes made in each commit.
