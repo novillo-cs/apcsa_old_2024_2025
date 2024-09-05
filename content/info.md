@@ -16,7 +16,7 @@ eleventyExcludeFromCollections: true
 
 - Students must pay attention when the teacher gives a lesson. Please do not use the computers during a lesson unless the teacher asks you to do it. Please do not work on assignments for other subjects during my class. Avoid distractions. Students who do not comply with this rule will lose classwork points.
 
-- Cell phones, earphones, and ear pods are not allowed during class time. These devices must be kept in your backpack. If you are caught using any of these devices, I will collect them and return them at the end of class. If this behavior is repeated, further consequences will be applied.
+- Cell phones, earphones, and ear pods are not allowed during class time. These devices must be kept in your backpack. If you are caught using any of these devices, the teacher will collect them and return them at the end of class. If this behavior is repeated, further consequences will be applied.
 
 - To maintain academic integrity, the teacher will collect the students' cell phones before any exam or quiz starts. Phones will be returned to students when the exam or quiz has concluded. 
 
