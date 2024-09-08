@@ -37,8 +37,8 @@ Windows: Install git and the shell gitbash from [here](https://gitforwindows.org
 **The git config command:** Configuring user information used across all local repositories. The following commands set a name and an email address that are associated with each version history.
 
 ```
-git config --global user.name "YOUR_NAME_HERE" => set a name that is identifiable for credit when review version history
-git config --global user.email YOUR_EMAIL_HERE => set an email address that will be associated with each history marker
+git config --global user.name "YOUR_NAME_HERE"
+git config --global user.email YOUR_EMAIL_HERE
 ```
 
 The basic commands we are going to use in this class are:
