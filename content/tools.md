@@ -79,7 +79,7 @@ Follow these steps to create an ssh key, connect to GitHub using SSH, and clone 
 
 4. Let's clone your repository on your local computer:
 
-    Go to your assignments repository that you accepted for this class in GitHub (assignments repo must be accepted only once, check GC for to have the link). You will see a green button, "Code". You must click on that button and select SSH to have the appropriate link that will allow you to clone your repository and copy the link you see there.
+    Go to your assignments repository that you accepted for this class in GitHub (assignments repo must be accepted only once, check GC for to have the link). You will see a green button, "Code". You must click on that button and select SSH to have the appropriate link that will allow you to clone your repository and copy the link you see there./
 
 5. Create a folder `APCSA_1` anywhere in your computer.
    
