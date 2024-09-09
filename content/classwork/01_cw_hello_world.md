@@ -1,5 +1,5 @@
 ---
-title: CW 01: Hello World - GitHub
+title: CW 01: Hello World and GitHub
 due_date: 2024-09-09
 ---
 
