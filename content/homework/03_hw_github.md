@@ -15,3 +15,6 @@ due_date: 2024-09-10
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- On your terminal, go inside the folder `APCSA_1` to clone your repository and type:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`git clone PASTE_THE_LINK_YOU_COPIED_FROM_GITHUB_(git@...)`
+
+
+**QUIZ**: The summer assignment quiz will be on Monday, September 16.
