@@ -54,7 +54,9 @@ You may take a look at the git reference [sheet](https://education.github.com/gi
 
 ## Connect to GitHub with SSH
 
-Follow these steps to create an ssh key, connect to GitHub using SSH, and clone your repository.
+If you do not have a GitHub account, create one please [GitHub](https://github.com/) (you may use any email to create your GitHub account).
+
+Then, follow these steps to create an ssh key, connect to GitHub using SSH, and clone your repository.
 
 1. Create your ssh key: Open your terminal and type
 
