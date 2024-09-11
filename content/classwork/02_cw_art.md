@@ -7,9 +7,10 @@ Write a program to draw some ASCII art using:
 
 ```
 System.out.println()
+System.out.print()
 ```
 
 ![image](https://github.com/user-attachments/assets/a56c2a13-fc97-4b34-8c98-46e6356c5ca9)
 
 
-Save here: /APCSA_1/apcsa-assignments-YourUsername/02_art/Art.java
+Save here: .../APCSA_1/apcsa-assignments-YourUsername/classwork/02_art/Art.java
