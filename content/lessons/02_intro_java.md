@@ -2,6 +2,6 @@
 title: Lesson 02 - Intro to Java
 ---
 
-Slides will be posted soon.
+[Slides](https://github.com/novillo-cs/apcsa_material/blob/main/lessons/02_intro_to_java.pdf)
 
 Please work on CW 02.
