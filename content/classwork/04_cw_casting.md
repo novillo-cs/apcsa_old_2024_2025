@@ -1,5 +1,5 @@
 ---
-title: CW 04 : Casting
+title: CW 04 - Casting
 due_date: 2024-09-16
 ---
 
