@@ -3,9 +3,9 @@ title: CW 04 : Casting
 due_date: 2024-09-16
 ---
 
-Write a program that:
+Create a java file Casting.java and implement a method that:
 
-  - Asks the user for two integers x and y
+  - Receives 2 integers
   - Divides the two ints
   - Prints the result
     
@@ -19,3 +19,5 @@ y = 4
 
 Output => 0.75
 ```
+
+Save your file here: `.../APCSA_1/apcsa-assignments-YourUsername/classwork/04_casting/Casting.java`
