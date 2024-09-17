@@ -1,5 +1,5 @@
 ---
-title: HW 08 : Scanner
+title: HW 08 - Scanner
 due_date: 2024-09-18
 ---
 
