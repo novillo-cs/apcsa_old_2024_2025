@@ -23,3 +23,4 @@ If the user input is -10, the output should be No negative values are allowed
 
 ### Part 2:
 
+Have fun with [CodingBat](https://codingbat.com/home/jnovillo@stuy.edu/apcsa)
