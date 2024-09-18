@@ -1,6 +1,6 @@
 ---
 title: HW 09 - Scanner and CodingBat
-due_date: 2024-09-18
+due_date: 2024-09-19
 ---
 
 ### Part 1:
