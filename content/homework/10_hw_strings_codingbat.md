@@ -1,5 +1,5 @@
 ---
-title: HW 10 - CodingBat : Strings
+title: HW 10 - CodingBat - Strings
 due_date: 2024-09-23
 ---
 
