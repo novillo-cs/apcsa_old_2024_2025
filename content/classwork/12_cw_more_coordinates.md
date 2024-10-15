@@ -1,5 +1,5 @@
 ---
-title: CW 12 : Coordinate V2
+title: CW 12 - Coordinate V2
 due_date: 2024-10-15
 ---
 
