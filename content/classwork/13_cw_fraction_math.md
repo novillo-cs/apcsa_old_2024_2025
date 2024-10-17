@@ -1,5 +1,5 @@
 ---
-title: CW 13 : Fraction Math
+title: CW 13 - Fraction Math
 due_date: 2024-10-15
 ---
 
