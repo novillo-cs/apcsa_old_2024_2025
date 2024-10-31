@@ -53,3 +53,5 @@ listFairlyOddNums([1, 2, 3, 4]) → 10
 listFairlyOddNums([8, 16, 10]) → 16
 listFairlyOddNums([5, 0, 13, 51]) → 18
 ```
+
+4. Complete the classwork ClimbInfo.
