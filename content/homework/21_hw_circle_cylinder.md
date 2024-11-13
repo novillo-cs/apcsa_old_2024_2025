@@ -11,5 +11,5 @@ Save your files here: ```.../APCSA_1/apcsa-assignments-YourUsername/homework/21_
 
 - Write a Driver.java to test your code.
 
-- ![image](https://github.com/user-attachments/assets/5d9616e1-b23e-4ccf-a407-b11d8161e418)
+![image](https://github.com/user-attachments/assets/5d9616e1-b23e-4ccf-a407-b11d8161e418)
 
