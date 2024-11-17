@@ -1,5 +1,5 @@
 ---
-title: CW 20 - Inheritance Worksheet
+title: CW 21 - Inheritance Worksheet
 due_date: 2024-11-14
 ---
 
