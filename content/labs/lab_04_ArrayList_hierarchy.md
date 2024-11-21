@@ -1,6 +1,6 @@
 ---
 title: Lab 04 - ArrayList Hierarchy
-due_date: 2024-11-22
+due_date: 2024-11-25
 ---
 
 Please accept [this assignment](https://classroom.github.com/a/7goWu_JB).
