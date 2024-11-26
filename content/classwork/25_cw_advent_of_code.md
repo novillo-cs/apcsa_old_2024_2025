@@ -1,11 +1,13 @@
 ---
 title: CW 25 - Advent of Code
-due_date: 2024-11-25
+due_date: 2024-11-27
 ---
 
 ## Advent of Code 2016
 
-Save here: `.../APCSA_1/apcsa-assignments-YourUsername/classwork/25_advent_of_code/`
+**Save here:** `.../APCSA_1/apcsa-assignments-YourUsername/classwork/25_advent_of_code/`
+
+**Due date:** Wednesday, November 27 at 11:59 pm
 
 ### Create an account and join leaderboard
 
