@@ -2,6 +2,6 @@
 title: Lesson 26 - Time Complexity
 ---
 
-[Slides](https://github.com/novillo-cs/apcsa_material/blob/main/lessons/26_big_o_notation.pdf)
+[Slides](https://novillo-cs.github.io/apcsa/classwork/26_cw_time_complexity/)
 
-[Classwork and Homework](https://github.com/novillo-cs/apcsa_material/tree/main/classwork/26_time_complexity)
+[Classwork and Homework]()
