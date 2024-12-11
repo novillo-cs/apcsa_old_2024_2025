@@ -1,5 +1,5 @@
 ---
-title: Lesson 23 - ArrayList Hierarchy
+title: Lesson 22 - ArrayList Hierarchy
 ---
 
 [Slides](https://github.com/novillo-cs/apcsa_material/blob/main/lessons/22_ArrayList_Hierarchy.pdf)
