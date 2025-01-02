@@ -1,6 +1,6 @@
 ---
 title: HW 22 - Recursion
-due_date: 2025-1-3
+due_date: 2025-01-03
 ---
 
 Save your files here: ```.../APCSA_1/apcsa-assignments-YourUsername/homework/22_recursion/RecursiveFunctions.java```
@@ -9,7 +9,9 @@ Save your files here: ```.../APCSA_1/apcsa-assignments-YourUsername/homework/22_
 
 Write the solution to the following problem:
 
-Given a non-negative int n, return the sum of its digits recursively (no loops). Do not use strings to solve the problem. Example: 12945 -> 1 + 2 + 9 + 4 + 5 = 21
+Given a non-negative int n, return the sum of its digits recursively (no loops). Do not use strings to solve the problem.
+
+Example: 12945 -> 1 + 2 + 9 + 4 + 5 = 21
 
 Hints:
 
