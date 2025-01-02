@@ -1,6 +1,6 @@
 ---
 title: CW 28 - Recursion
-due_date: 2025-1-2
+due_date: 2025-01-02
 ---
 
 [Directions](https://github.com/novillo-cs/apcsa_material/tree/main/classwork/28_recursion)
