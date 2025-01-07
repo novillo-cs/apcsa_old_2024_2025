@@ -1,5 +1,5 @@
 ---
-title: CW 32 : Number Letter Counts
+title: CW 32 - Number Letter Counts
 due_date: 2025-01-08
 ---
 
