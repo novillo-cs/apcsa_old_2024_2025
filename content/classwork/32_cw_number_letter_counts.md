@@ -7,6 +7,8 @@ due_date: 2025-01-08
 
 ### [Project Euler - Problem 17](https://projecteuler.net/problem=17)
 
+Save your work here: `.../APCSA_1/apcsa-assignments-YourUsername/classwork/32_recursion_number_letters/NumberLetter.java`
+
 This problem must be solved using recursion.
 
 If the numbers 1 to 5 are to are written out in words: one, two, three, four, five, then there are 3 + 3 + 5 + 4 + 4 = 19 letters used in total.
