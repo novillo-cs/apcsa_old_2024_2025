@@ -5,7 +5,7 @@ due_date: 2025-01-07
 
 ## Recursion with Strings
 
-Implement the following methods and save them here: 31_recursion_strings/Strings.java
+Implement the following methods and save them here: `.../APCSA_1/apcsa-assignments-YourUsername/classwork/31_recursion_strings/Strings.java`
 
 ### Print Characters
 
