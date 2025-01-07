@@ -1,5 +1,5 @@
 ---
-title: CW 31 : More Recursion with Strings
+title: CW 31 - More Recursion with Strings
 due_date: 2025-01-07
 ---
 
