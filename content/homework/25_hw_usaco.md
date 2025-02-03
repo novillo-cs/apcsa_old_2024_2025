@@ -1,6 +1,6 @@
 ---
 title: HW 25 - USACO Silver
-due_date: 2025-02-4
+due_date: 2025-2-4
 ---
 
 Write the outline for the Silver problem.
