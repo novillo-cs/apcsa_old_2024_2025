@@ -1,6 +1,6 @@
 ---
 title: Lab 08 - USACO
-due_date: 2025-2-7
+due_date: 2025-02-07
 ---
 
 ## Link is coming soon...
