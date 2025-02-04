@@ -1,0 +1,10 @@
+---
+title: Lab 08 - USACO
+due_date: 2025-2-7
+---
+
+## Link is coming soon...
+
+Please accept [this assignment]().
+
+**Due Date:** Friday, February 7, 2025 at 08:00 am.
