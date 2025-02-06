@@ -9,6 +9,7 @@ Save your work here: .../APCSA_1/apcsa-assignments-YourUsername/classwork/36_fib
 
 2. Let's implement the iterative Fibonacci algorithm. Create a Fibonacci.java file and implement the following method:
 
+```
 /*
  * Preconditions:
  * n is a non-negative integer
@@ -20,3 +21,4 @@ Save your work here: .../APCSA_1/apcsa-assignments-YourUsername/classwork/36_fib
  public static int fibIter(int n, int f1, int f2){
    // remember the recursive case calls  fibIter once
  }
+```
