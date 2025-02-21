@@ -1,6 +1,6 @@
 ---
 title: CW 39 - NQueens
-due_date: 2025-02-19
+due_date: 2025-02-26
 ---
 
 
