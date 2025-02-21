@@ -1,9 +1,9 @@
 ---
 title: Lab 09 - NQueens
-due_date: 2025-02-19
+due_date: 2025-02-26
 ---
 
 
 Please accept [this assignment]()
 
-**Due Date:** Wednesday, February 19, 2025 at 08:00 am.
+**Due Date:** Wednesday, February 26, 2025 at 08:00 am.
