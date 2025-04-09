@@ -1,5 +1,5 @@
 ---
-title: CW 40 - Stack and Queue
+title: CW 40 - Maze
 due_date: 2025-03-06
 ---
 
