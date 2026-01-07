@@ -72,3 +72,46 @@ public static int countChar(String word, char ch) {
 ```
 
 ---
+
+## Solutions:
+
+```
+; TAIL
+public static void printString(String word) {
+    if (word.length() == 0) {
+        return;
+    }
+    System.out.println(word.charAt(0));
+    printString(word.substring(1)); 
+}
+
+; Non-Tail
+public static void printReverse(String word) {
+    if (word.length() == 0) {
+        return;
+    }
+    printReverse(word.substring(1));  
+    System.out.println(word.charAt(0));  
+}
+
+;Non-Tail
+; ASK students how to make it Tail recursive
+public static int countChar(String word, char ch) {
+    if (word.length() == 0) {
+        return 0;
+    } 
+    if (word.charAt(0) == ch) {
+        return 1 + countChar(word.substring(1), ch); 
+    } else {
+        return countChar(word.substring(1), ch);
+    }
+}
+
+public static int countChar(String word, char ch, int count) {
+    if (word.length() == 0) {
+        return count;
+    }
+    
+    return countChar(word.substring(1), ch, count + (word.charAt(0) == ch ? 1 : 0));
+}
+```
